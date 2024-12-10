@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DREAM Project Site
+title: Final Quest Report
 ---
 
 * TOC
@@ -9,10 +9,6 @@ title: DREAM Project Site
 ## About Me
 
 My info goes here.
-
-## About My Advisor
-
-Advisor info goes here.
 
 ## About My Project
 
