@@ -8,11 +8,11 @@ title: Final Quest Report
 
 ## About Me
 
-My info goes here.
+A student in the Programming Fundamentals course!
 
 ## About My Project
 
-Project description goes here.
+For my final quest, I'll be attempting to complete the first 5 days of Advent of Code 2024, an Advent-style programming challenge.
 
 [My Final Report](files/finalreport.pdf)
 
