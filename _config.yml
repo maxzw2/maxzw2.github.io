@@ -9,7 +9,7 @@ name: Max Wang
 description: Final Quest Project for Programming Fundamentals
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic) or "images/<insertfilename>"
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: images/<christmas tree.png>
 
 #
 # Flags below are optional
