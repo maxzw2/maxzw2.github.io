@@ -4,6 +4,8 @@ title: Testing My Code
 ---
 How I've been checking my code, some findings on my habits, and other growths
 
+# My Thought Process
+
 I deviated from the original path that I was taught for Programming Fundamentals in testing my code. I'll be honest -- I was a little skeptical of assert statements. I decided to use my final project as an experiment in trying problems without them. I still spent plenty of time analyzing the problem, input data, and my code through line tracing and following my input as it was modified and weeded through. I found that method beneficial, but I soon realized that my ignorance towards assert statements would return to get me.
 
 I was wrong. Harshly. But, through this, I learned about the true goals behind making assert statements that weren't as clear to me before -- grasping your knowledge thoroughly. During coursework, I made assert statements and did rigorous testing behind my functions, but I didn't see that comprehension aspect. I felt uncomfortable making my assert statements; I brushed my negligence off as just laziness, but, through solving these problems and struggling, I realized what I was escaping from. It was tiring to think critically about the intended output and what would slip through the cracks, and a bit of a perfectionist mindset had me scared of potentially missing the one critical assert statement that makes or breaks my code.
